@@ -1,0 +1,18 @@
+<body style="background-color: red;">
+<head>
+...
+	<style>
+		body {
+			background-color: red;
+		}
+	</style>
+...
+</head>
+body {
+	background-color: red;
+}
+<head>
+...
+	<link rel="stylesheet" href="style.css">
+...
+</head>

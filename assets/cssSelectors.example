@@ -1,0 +1,10 @@
+/* Je suis un commentaire */
+p {
+	background-color: red;
+}
+.paragraphe {
+	background-color: blue;
+}
+#intro {
+	background-color: green;
+}
